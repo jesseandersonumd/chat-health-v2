@@ -1,0 +1,704 @@
+img {
+    max-width: 100%;
+}
+
+.top-banner {
+
+  background-color:#E5E5E5;
+  font-family: 'DM Sans', sans-serif; 
+  color:#5A5B68;
+  border-bottom:#ABD8F1 solid 4px;
+  text-align:center;
+
+}
+
+.landing-page-text-container {
+
+  float:left;
+  width:50%;
+
+}
+
+.landing-page-inner {
+
+  justify-content: center;
+  width:100%;
+  height:100%;
+
+}
+
+.banner-text {
+
+  display: inline-block;
+
+}
+
+.students-text {
+
+  padding-top:15px;
+  font-family: 'DM Sans', sans-serif;
+  font-size:30px;
+  font-weight:700;
+  text-align:center;
+
+}
+
+.stat {
+
+  font-weight:700;
+  font-size:25px;
+  
+}
+.stats-vals {
+
+  width:45%;
+  float:left;
+  text-align:center;
+  padding: 0px 0px 20px 20px;
+
+}
+.uni-img {
+
+  width:15%;
+  display:block; 
+  margin:auto;
+  padding-top:20px;
+
+}
+.stats-content {
+  
+  background-color:#fff; 
+  border: 2px solid darkgray;
+  width:100%; height:100%;
+  display:inline-block;
+  border-radius:10px;
+  color:#000;
+  font-family: 'DM Sans', sans-serif; 
+  font-size:20px;
+
+}
+.students-banner {
+
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  margin-top:30px; 
+  padding-top:30px;
+  padding-bottom:60px;
+  background-color:#EAF5FF;
+
+}
+
+.nav-container-outer {
+
+  background-color: #1460aa; 
+  width:100%; 
+  padding-top:10px; 
+  padding-bottom: 10px;
+
+}
+
+.nav-container-inner {
+  width:95%;
+  margin-left:auto;
+  margin-right:auto;
+  height: 100%;
+  overflow: auto;
+  color:white;
+}
+
+.logo-styles {
+
+  width:55%;
+  float:left;
+  font-family: 'DM Sans', sans-serif;
+  font-weight:700;
+
+}
+
+.logo-items {
+
+  float:right;
+  width:40%;
+  display:grid;
+  grid-template-columns: auto auto auto auto; 
+  text-align:right;
+  justify-content: space-between;
+  font-family: 'DM Sans', sans-serif;
+  font-weight:400;
+
+}
+
+.logo-items-styles{
+
+  color:white; 
+  text-decoration: none;
+  
+}
+
+.landing-page {
+
+  width:85%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  margin-top:100px; 
+  padding-top:30px;
+  padding-bottom:30px;
+
+}
+
+.landing-page-div {
+
+  justify-content: center;
+  width:100%;
+  height:100%;
+
+}
+
+.home-header {
+
+  font-size:30px;
+  margin-top:40px; 
+  margin-bottom:40px;
+
+}
+.gen-landing-page-header {
+
+  font-family: 'DM Serif Display', serif;
+  font-size:40px;
+  display:inline;
+
+}
+
+.partner-button {
+
+  border:none; 
+  background-color:#1460aa; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:white; 
+  font-weight:700; 
+  padding:10px;
+  margin-right:10px;
+
+}
+
+.testimonial-container {
+
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  margin-top:30px; 
+  padding-top:30px;
+  padding-bottom:60px;
+  background-color:#EAF5FF;
+      
+}
+
+.beta-button {
+
+  border:#1460aa 2px solid; 
+  background-color:white; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:#1460aa; 
+  font-weight:700; 
+  padding:10px;
+
+}
+.gen-landing-page-content {
+
+  font-family: 'DM Sans', sans-serif;
+  font-weight:300;
+  line-height:27px;
+  font-size:20px;
+
+}
+
+.university-top-div {
+
+  background-color: #f1f1f1; 
+  width:100%;
+  
+
+}
+.landing-page-header {
+
+  font-family: 'DM Serif Display', serif;
+  font-size:40px;
+  text-align:center;
+
+}
+
+.landing-page-subheader {
+
+  font-family: 'DM Sans', sans-serif;
+  font-weight:300;
+  line-height:27px;
+  font-size:20px;
+  text-align:center;
+
+}
+
+.landing-page-button-container {
+
+  display:block;
+  text-align:center;
+  margin-bottom:60px;
+
+}
+
+.blue-button {
+
+  border:none; 
+  background-color:#1460aa; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:white; 
+  font-weight:700; 
+  padding:10px;
+  margin-right:10px;
+
+}
+
+.team-button-container {
+
+  align-items:center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom:40px;
+  margin-top:40px;
+
+}
+
+.team-button {
+
+  background-color:lightgray; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:black; 
+  font-weight:700; 
+  padding:10px;
+
+}
+
+.about-page-container {
+
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  padding-top:80px;
+  padding-bottom:80px;
+
+}
+
+.footer-container-outer {
+
+  width:100%;
+  background-color:#5A5B68;
+
+}
+
+.footer-logo {
+
+  width:60%;
+  float:left;
+  font-family: 'DM Sans', sans-serif;
+  font-weight:700;
+  font-size:20px;
+
+}
+
+.footer-links {
+
+  float:right;
+  width:40%;
+  display:grid;
+  grid-template-columns: auto auto auto; 
+  text-align:left;
+  justify-content: space-between;
+  font-family: 'DM Sans', sans-serif;
+  font-weight:400;
+
+}
+
+.join-pilot-button {
+
+  display:block;
+  border:2px white solid; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:white; 
+  font-weight:700; 
+  margin-right:10px;
+  padding:10px;
+  margin-top: 1em;
+  background-color: #5A5B68;
+
+}
+
+.get-involved-button {
+
+  display:block; 
+  border:none; 
+  background-color:white; 
+  border-radius:15px; 
+  font-size: 15px; 
+  font-family: 'DM Sans', sans-serif;
+  color:#5A5B68; 
+  font-weight:700; 
+  padding:10px;
+  margin-top:10px;
+
+}
+.footer-socials {
+
+  display:grid;
+  grid-template-columns: auto auto;
+  justify-content: space-between;
+  width:10%;
+
+}
+.footer-container-inner {
+
+  width:85%;
+  margin-left:auto;
+  margin-right:auto;
+  height: 100%;
+  overflow: auto;
+  color:white;
+  margin-top:30px;
+  margin-bottom:40px;
+
+}
+
+.about-page-inner-container {
+
+  width:65%;
+  margin-right:auto; 
+  margin-left:auto;
+  justify-content: center;
+
+}
+
+.about-page-heading {
+
+  font-family: 'DM Sans', sans-serif;
+  font-size:30px;
+  font-weight:700;
+  text-align:center;
+
+}
+
+.about-page-subheading {
+  font-family: 'DM Sans', sans-serif;
+  font-weight:300;
+  line-height:27px;
+  font-size:20px;
+  text-align:center;
+
+}
+
+.about-page-team-container {
+
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color:#ffffff;
+
+}
+
+.university-menu {
+
+  width:45%;
+  float:left;
+  vertical-align: middle;
+  height:100%;
+
+}
+
+.university-menu-text {
+
+  font-family: 'DM Sans', sans-serif, serif;
+  font-size:18px;
+  display:block;
+  font-weight:700;
+
+}
+
+.university-app-fold {
+
+  width:70%; 
+  margin-right:auto; 
+  margin-left:auto;
+  height:100%;
+
+}
+
+.university-app-fold-inner {
+
+  width:55%;
+  float:left;
+  vertical-align: top;
+  height:100%;
+  margin-top:0px;
+
+}
+
+.university-app-fold-content-header {
+
+  width:100%;
+  background-color:#f1f1f1;
+  border-radius:10px;
+  padding:10px;
+  margin-bottom:10px;
+
+}
+
+.stats-container {
+  
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:100%;
+  overflow:auto;
+  margin-top:30px; 
+  padding-top:30px;
+  padding-bottom:60px;
+  background-color:#EAF5FF;
+
+}
+.video-styles {
+
+  display: block;
+  margin: 0 auto;
+  border-radius:10px;
+  border:2px solid #f1f1f1;
+
+}
+.university-app-fold-content {
+
+  font-family: 'DM Sans', sans-serif;
+  line-height:27px;
+  font-size:16px;
+  display:inline-block;
+  margin-top:0px; 
+  margin-bottom:0px;
+
+}
+.university-app-header {
+
+  font-family: 'DM Sans', sans-serif, serif;
+  font-size:18px;
+  font-weight:700;
+
+}
+
+.university-app-subheader {
+
+  font-family: 'DM Serif Display', serif;
+  font-size:25px;
+
+}
+
+.university-menu-sub-text {
+
+  font-family: 'DM Serif Display', serif;
+  font-size:25px;
+  display:inline;
+
+}
+
+.university-menu-content {
+
+  font-family: 'DM Sans', sans-serif;
+  font-weight:300;
+  line-height:27px;
+  font-size:18px;
+
+}
+.university-div-inner {
+
+  width:85%; 
+  margin-right:auto; 
+  margin-left:auto;
+  height:100%;
+
+}
+
+.university-fold {
+
+  width:100%;
+  background-color:darkgray;
+  border-radius:10px;
+  padding:10px;
+  margin-bottom:10px;
+
+}
+
+.university-app-inner {
+
+  display:block;
+  text-align:center;
+  margin-bottom:50px;
+
+}
+
+.university-app-display {
+
+  background-color: #fff; 
+  width:100%;
+  margin-bottom:40px;
+  padding-top: 80px;
+  padding-bottom: 60px;
+
+}
+.university-fold-text {
+
+  font-family: 'DM Sans', sans-serif;
+  line-height:27px;
+  font-size:16px;
+  display:inline-block;
+  margin-top:0px; 
+  margin-bottom:0px;
+
+}
+.about-page-team-inner {
+
+  width:85%;
+  margin-left:auto; 
+  margin-right:auto;
+  justify-content: center;
+
+}
+
+.team-button {
+
+  font-family: 'DM Sans', sans-serif;
+  font-size:18px;
+  font-weight:700;
+  border-radius:15px;
+  border:none;
+  padding:7px;
+  margin-right:5px;
+  margin-left:5px;
+
+}
+
+.about-team-section-div {
+
+  width: 100%; 
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:30px;
+
+}
+
+.about-team-img {
+
+  width: 150px; 
+  object-fit: cover;
+  height:150px;
+  border-radius: 50%;
+
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  [class*="col-"] {
+    float: left;
+    padding: 15px;
+    
+    /*
+    border-style: solid;
+    border-color: red;
+    */
+    box-sizing: border-box;
+  }
+  
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+  .col-13 {width: 20%;}
+
+  @media only screen and (max-width: 500px) {
+    /* For mobile phones:  SPECIALIZE DIFFERNT SIZE FOR EACH ONE*/
+    .col-1 {width: 50%;}
+    .col-2 {width: 50%;}
+    .col-3 {width: 50%;}
+    .col-4 {width: 100%;}
+    .col-5 {width: 100%;}
+    .col-6 {width: 100%;}
+    .col-7 {width: 100%;}
+    .col-8 {width: 100%;}
+    .col-9 {width: 100%;}
+    .col-10 {width: 100%;}
+    .col-11 {width: 100%;}
+    .col-12 {width: 100%;}
+    
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .content {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  }
+
+  .content-sub{
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    margin: 10px;
+    font-size:15px;
+    text-align: center;
+    font-weight:400;
+  }
+  .content-header {
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    text-align: center;
+    font-weight:700;
+  }
